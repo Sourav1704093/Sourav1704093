@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning OpenCV
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via 
-   linkedin:kedin.com/in/sourav-saha-2530a0183/
+   linkedin:linkedin.com/in/sourav-saha-2530a0183/
    twitter:@SahaSourav7
 
 <!---
